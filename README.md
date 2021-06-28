@@ -2,9 +2,11 @@
 
 Hi, I'm Abai, aspiring Full Stack web developer from Kyrgyzstan. Шn the near future I want to become a highly qualified developer.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to dance and play 
+- ⚡ Fun fact: I love to dance and play basketball
 
 **Languages and Tools:**
 
